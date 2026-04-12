@@ -270,6 +270,26 @@ body {
   margin-top: 1.35rem;
 }
 
+.menu-section--thanks {
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid rgb(196 30 30 / 35%);
+  max-width: 900px;
+  margin-inline: auto;
+}
+
+.thanks-intro {
+  margin: 0 0 1rem;
+}
+
+.thanks-list {
+  margin: 0 0 0.85rem;
+}
+
+.thanks-list:last-child {
+  margin-bottom: 0;
+}
+
 .site-footer {
   display: flex;
   justify-content: center;
